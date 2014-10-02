@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+
+~/.git-templates/helpers/php-cs-fixer-pre-commit.php
